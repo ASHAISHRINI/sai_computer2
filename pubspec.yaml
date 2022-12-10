@@ -1,0 +1,71 @@
+name: sai_computer2
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.1.1
+  cupertino_icons: ^1.0.2
+  carousel_images: ^1.1.2
+  carousel_pro_nullsafety: ^1.0.2
+  hotreloader: ^3.0.5
+
+
+
+  get:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - assets/sscomputerwork.png
+   - assets/sscomputerworkswhite.png
+   - assets/Sewing.jpg
+   - assets/Computer Works.png
+   - assets/computerworksblack.png
+   - assets/background pic.png
+   - assets/rectanglebutton.webp
+   - assets/facebook.png
+   - assets/instagram.png
+   - assets/google.png
+   - assets/cap.jfif
+   - assets/123.jpg
+   - assets/download.jpg
+   - assets/ima1.jfif
+   - assets/images.jpg
+   - assets/blows.jpg
+   - assets/blue.jpg
+   - assets/black.png
+   - assets/sweater.png
+   - assets/imagesi.jpg
+   - assets/imag.jpg
+
+
+
+  fonts:
+    - family: RobotoCondensed
+      fonts:
+      - asset: fonts/RobotoCondensed-Regular.ttf
